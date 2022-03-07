@@ -1,0 +1,7 @@
+# DATABASE ACCESS
+db_host: "127.0.0.1"
+db_port: 3306
+db_user: "yourusername"
+db_password: "yourpassword"
+db_database: "yourdatabasename"
+
